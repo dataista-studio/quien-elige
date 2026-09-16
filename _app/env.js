@@ -1,0 +1,1 @@
+export const env={PUBLIC_GA_ID:"G-G64PH6GSJJ"}
